@@ -5,28 +5,28 @@ Welcome to the **AI Agents with LangGraph** project, developed as part of the De
 ## 📖 Project Overview
 LangGraph extends LangChain by enabling cyclic, stateful computation using a graph-based model. This project demonstrates how to:
 
-- Create AI agents that reason through complex tasks
-- Manage memory and state transitions between agent steps
-- Use LangGraph to define conditional logic and loops
-- Build interactive and adaptive workflows with LLMs
+- Create AI agents that reason through complex tasks.
+- Manage memory and state transitions between agent steps.
+- Use LangGraph to define conditional logic and loops.
+- Build interactive and adaptive workflows with LLMs.
 
 ## 🚀 Features
-- Agent creation with memory and tool use
-- Directed graph logic for stateful execution
-- Integration with LangChain tools and agents
-- Demonstration of multi-turn task completion
-- Fine-grained control over flow and branching
+- Agent creation with memory and tool use.
+- Directed graph logic for stateful execution.
+- Integration with LangChain tools and agents.
+- Demonstration of multi-turn task completion.
+- Fine-grained control over flow and branching.
 
 ## 🛠️ Tech Stack
-- **LangGraph** – Agent orchestration
-- **LangChain** – LLM interface and tools
-- **Python** – Core logic and flow control
-- **OpenAI / Hugging Face** – LLM providers (optional)
+- **LangGraph** – Agent orchestration.
+- **LangChain** – LLM interface and tools.
+- **Python** – Core logic and flow control.
+- **OpenAI / Hugging Face** – LLM providers (optional).
 
 ## 📅 Use Cases Demonstrated
-- Multi-step task execution (e.g., writing, planning, summarizing)
-- Tool-augmented agents (e.g., using search, calculators)
-- Stateful agent loops (e.g., retrying tasks, reflecting)
+- Multi-step task execution (e.g., writing, planning, summarizing).
+- Tool-augmented agents (e.g., using search, calculators).
+- Stateful agent loops (e.g., retrying tasks, reflecting).
 
 ## 📄 Getting Started
 1. Clone the repo:
