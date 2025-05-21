@@ -50,8 +50,6 @@ python agent_demo.py
 - [LangChain Framework](https://www.langchain.com/)
 - [DeepLearning.AI Course](https://www.deeplearning.ai/short-courses/building-agentic-apps-langgraph-langchain/)
 
-## 📚 License
-This project is licensed under the MIT License.
 
 ---
 
